@@ -15,7 +15,7 @@ Pre Requirements
 
 4. Large Notification icon - The business logo of 128 x 128 pixels in .png format without any background colour
 
-5. Small Notification icon - The business logo of 72 x 72 pixels in .png format in WHITE colour.
+5. Small Notification icon - The business logo of 72 x 72 pixels in .png format in WHITE colour without any background.
 
 6. Toolbar image - A flat colour UI or a gradient colour (preferably of the same accent colour as the status bar) of 
 
